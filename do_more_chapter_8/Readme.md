@@ -5,11 +5,11 @@
 
 ### Use these commands to move around directories all over your computer.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+`popd`
+      
 ### Remove the i/like/icecream directories and make your own, then move around in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+`rmdir i/like/icecream`
     
 ### Explain to yourself the output that pushd and popd print out to you. Notice how it works like a stack?
 
