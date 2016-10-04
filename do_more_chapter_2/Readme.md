@@ -8,8 +8,10 @@
 
 ### Write down the path that this command gives you. Find it with your graphical file browser of choice.
 
-    /Users/Evan/workspace/davinci_coders_t3_2016/homework/koans_evan
+    `/Users/Evan/workspace/davinci_coders_t3_2016/homework/koans_evan`
     
     I typed pwd and it told me this.
+    
+    Finder>Evan>Workspace>davinci_coders_t3_2016>homework>koans_evan
 
 ### No, seriously, type it 20 times and say it out loud. Sssh. Just do it.
