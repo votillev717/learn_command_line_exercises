@@ -5,11 +5,14 @@
 
 ### On Unix, try the ls -lR command while you're in temp.
 
+```
 ls
 Readme.md
+```
 
 ### Use cd to get to other directories on your computer then use ls to see what's in them.
 
+```
 Evans-MacBook-Pro:do_more_chapter_6 Evan$ cd ~/workspace/davinci_coders_t3_2016/homework/koans_evan/
 Evans-MacBook-Pro:koans_evan Evan$ ls
 GREED_RULES.txt			about_modules.rb
@@ -34,6 +37,8 @@ about_java_interop.rb		neo.rb
 about_keyword_arguments.rb	path_to_enlightenment.rb
 about_message_passing.rb	triangle.rb
 about_methods.rb		versioning_spec.rb
+```
+
 ### Update your notebook with new questions. I know you probably have some, because I'm not covering everything about this command.
 
 ### Remember that if you get lost, then use ls and pwd to figure out where you are, then go to where you need to be with cd.
