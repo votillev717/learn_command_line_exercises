@@ -7,7 +7,9 @@
 
 ### Make 20 other directories inside the temp directory in various levels. Go look at them with a graphical file browser.
 
+```
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir temp
+Evans-MacBook-Pro:do_more_chapter_4 Evan$ cd temp
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 1
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 2
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 3
@@ -28,9 +30,10 @@ Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 17
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 18
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 19
 Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir 20
+```
 
 ### Make a directory with a space in the name by putting quotes around it
 
-Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir "Temp Temp"
+`Evans-MacBook-Pro:do_more_chapter_4 Evan$ mkdir "Temp Temp"`
 
 
