@@ -8,10 +8,8 @@
 
 ### Write down the path that this command gives you. Find it with your graphical file browser of choice.
 
-    *** DELETE AFTER READING ***
-    Please use markdown formatting to answer this (and future) questions. Provide the command you ran, the output
-    of that command and how you found the path/directory in Finder (graphical file browser)
+    /Users/Evan/workspace/davinci_coders_t3_2016/homework/koans_evan
     
-    Your answer goes here...
+    I typed pwd and it told me this.
 
 ### No, seriously, type it 20 times and say it out loud. Sssh. Just do it.
