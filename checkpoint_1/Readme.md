@@ -20,7 +20,7 @@ For each question that is asked below, please provide the command you would run 
 
 `pwd`
 
-Yes
+No
     
 3) Are you in a subdirectory of the class directory?
     
@@ -30,7 +30,7 @@ Yes
     
 4) Please make a directory called "My Stuff"
 
-`mkdir My_Stuff`
+`mkdir "My Stuff"`
  
  
    
@@ -42,7 +42,7 @@ Yes
     
 6) Go into the "My Stuff" directory
  
-`cd My_Stuff`
+`cd "My Stuff"`
 
 7) What directory are you in now?
      
@@ -65,8 +65,7 @@ My_Stuff
 
 9) Please go up two directories.
 
-`cd ~/workspace/davinci_coders_t3_2016/homework/learn_command_line_exercises/checkpoint_1`
-    
+`cd ../..`    
 10) What directory are you in now?
      
 `pwd`
