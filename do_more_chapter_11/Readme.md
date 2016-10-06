@@ -5,5 +5,10 @@
 
 ### Move a file in the newplace directory to another directory then move it back
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+  `Evans-MacBook-Pro:temp Evan$ mv mytxt.txt awesome.txt
+   Evans-MacBook-Pro:temp Evan$ ls
+   awesome.txt	newplace
+   Evans-MacBook-Pro:temp Evan$ mv awesome.txt newplace
+   Evans-MacBook-Pro:temp Evan$ ls
+   newplace`
+     
